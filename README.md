@@ -1,3 +1,6 @@
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/79817968/135387824-77366ccd-a5a6-48c8-b5aa-a36848236315.gif)
+
+
 # React, MaterialUi, BOOTSTRAP 라이브러리를 사용한 단어 사전 검색 사이트입니다.
 
 #Getting Started with Create React App
